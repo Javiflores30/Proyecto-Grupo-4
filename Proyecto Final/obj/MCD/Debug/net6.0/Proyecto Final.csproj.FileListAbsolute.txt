@@ -1,0 +1,15 @@
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\bin\MCD\Debug\net6.0\Proyecto Final.exe
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\bin\MCD\Debug\net6.0\Proyecto Final.deps.json
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\bin\MCD\Debug\net6.0\Proyecto Final.runtimeconfig.json
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\bin\MCD\Debug\net6.0\Proyecto Final.dll
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\bin\MCD\Debug\net6.0\Proyecto Final.pdb
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.dll
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\refint\Proyecto Final.dll
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.pdb
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\Proyecto Final.genruntimeconfig.cache
+C:\Users\Juan Pablo\Documents\UMG Javier\Segundo semestre\Algoritmos\Proyecto Final\obj\MCD\Debug\net6.0\ref\Proyecto Final.dll
